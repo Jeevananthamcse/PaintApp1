@@ -1,4 +1,4 @@
-opencv==4.6.0.66
+opencv==4.6.0
 numpy==1.23.1
 imutils==0.5.4
 Flask==2.1.3
