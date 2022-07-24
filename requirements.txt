@@ -2,3 +2,5 @@ python -opencv
 numpy
 imutils
 flask
+mediapipe
+
